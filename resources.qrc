@@ -1,0 +1,59 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="osu_background">OsuBackground.jpg</file>
+        <file alias="Sentimental Crisis (TV Size)">Sentimental Crisis (TV Size).jpg</file>
+        <file alias="Atashi ga Tonari ni Iru Uchi ni (TV Size)">Atashi ga Tonari ni Iru Uchi ni (TV Size).jpg</file>
+        <file alias="track">track.png</file>
+        <file alias="dog0">dog0.png</file>
+        <file alias="dog1">dog1.png</file>
+        <file alias="dog2">dog2.png</file>
+        <file alias="dog3">dog3.png</file>
+        <file alias="dog4">dog4.png</file>
+        <file alias="dog5">dog5.png</file>
+        <file alias="dog6">dog6.png</file>
+        <file alias="taikoslider">taikoslider.png</file>
+        <file>s.png</file>
+        <file>a.png</file>
+        <file>b.png</file>
+        <file>c.png</file>
+        <file>d.png</file>
+        <file alias="Stella Breeze (TV Size)">Stella Breeze (TV Size).png</file>
+        <file alias="IntroSong">IntroSong.jpg</file>
+        <file alias="Romeo and Cinderella">Romeo and Cinderella.jpg</file>
+    </qresource>
+    <qresource prefix="/songlist">
+        <file alias="song_list">songlist.txt</file>
+    </qresource>
+    <qresource prefix="/songs">
+        <file>Stella Breeze (TV Size).mp3</file>
+        <file>Sentimental Crisis (TV Size).mp3</file>
+        <file>Atashi ga Tonari ni Iru Uchi ni (TV Size).mp3</file>
+        <file>start.mp3</file>
+        <file>IntroSong.mp3</file>
+        <file>Romeo and Cinderella.mp3</file>
+    </qresource>
+    <qresource prefix="/videos">
+        <file>Stella Breeze (TV Size).mp4</file>
+        <file>Sentimental Crisis (TV Size).mp4</file>
+        <file>Atashi ga Tonari ni Iru Uchi ni (TV Size).mp4</file>
+        <file>IntroSong.mp4</file>
+        <file>Romeo and Cinderella.mp4</file>
+    </qresource>
+    <qresource prefix="/notes">
+        <file alias="R">R.png</file>
+        <file alias="L">L.png</file>
+        <file alias="BR">BR.png</file>
+        <file alias="BL">BL.png</file>
+    </qresource>
+    <qresource prefix="/notesdata">
+        <file alias="Stella Breeze (TV Size)">Stella Breeze (TV Size).txt</file>
+        <file alias="IntroSong">IntroSong.txt</file>
+        <file alias="Sentimental Crisis (TV Size)">Sentimental Crisis (TV Size).txt</file>
+        <file alias="Atashi ga Tonari ni Iru Uchi ni (TV Size)">Atashi ga Tonari ni Iru Uchi ni (TV Size).txt</file>
+        <file alias="Romeo and Cinderella">Romeo and Cinderella.txt</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>right.wav</file>
+        <file>left.wav</file>
+    </qresource>
+</RCC>
